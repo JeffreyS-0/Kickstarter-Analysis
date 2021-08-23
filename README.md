@@ -1,4 +1,4 @@
-# Kickstarter-Analysis
+# An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends. 
 ## Overview 
 Louise has contracted me out to complete an analysis of the recent Theater and Play Kickstarter Campaigns. 
