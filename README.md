@@ -3,10 +3,10 @@ Performing analysis on Kickstarter data to uncover trends.
 ## Overview 
 Louise has contracted me out to complete an analysis of the recent Theater and Play Kickstarter Campaigns. 
 The purpose behind this analysis is to give Louise a better understanding of how different campaigns fared in relation to their launch dates and their funding goals. 
-Louise came really close to meeting her fundraising goal for her play "Fever".
+Louise came really close to meeting her fundraising goal for her play "Fever". However, her play ultimately failed. Louise would like to learn from any mistakes she had and would like to see how other campaigns managed to reach their goals.
 ## Analysis of Outcomes Based on Launch Date
 I took the entire data set and created a table with the months of the year correlating with successful, failed, and canceled theater campaigns. 
-To help visualize these findings, you can refer to the line chart below.
+To help visualize these findings, you can refer to the line chart below. Campaigns are failed and canceled at a pretty steady rate throughout the year. However, you do see that the beginning of the new year sparks an interest in theater campaigns and reaches a peak in the month of May, and for the rest of the year that interest slowly dies away.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/69607218/130502928-1669b209-5a3f-479e-8dca-8bd678292cfc.png)
 ## Analysis of Outcomes Based on Goals
 I decided to take the entire data set and figure out what the percentage of the theater-play campaigns were successful, failed or canceled; and if the Goal of these campaigns had any correlation with them succeeding, failing or being canceled.
