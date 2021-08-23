@@ -14,11 +14,11 @@ It's interesting to see that for the most part, as the Goal increased, the less 
 ## Challenges and Difficulties
 The biggest challenge I had while completing this analysis was when I downloaded the dataset for the first time. I hade made it halfway through my analysis when I realized that the Goal and Pledged $ of the Theater section was slightly off and the number of Successful, Failed and Canceled Theater campaigns were off. The total number of Kickstarter campaigns and the data relating to ever other category was the same, the only thing off was the Theater section. I had to re-download the dataset and work through the analysis all over again.
 ## Results
-Conclusions from Theater Outcomes by Launch Date
+### Conclusions from Theater Outcomes by Launch Date
   1. May and June are the best months of the year to hold a theater Kickstarter campaign.
   2. The chance of the theater campaign being canceled is almost negligible. 
 
-Conclusion from Outcomes Based on Goals
+### Conclusion from Outcomes Based on Goals
   - The most 'Plays' campaigns that were successful were in the <$1000 bracket or the $1000 - $4999 range; with 75.81% and 72.66% success rates respectively.
 
 The dataset is specifically limited to Kickstarter campaigns within the years of 2009 and 2017. There are other crowdfunding websites out there, like Indiegogo and Patreon, that could have a different outcome.
