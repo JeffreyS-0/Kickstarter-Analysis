@@ -5,11 +5,11 @@ Louise has contracted me out to complete an analysis of the recent Theater and P
 The purpose behind this analysis is to give Louise a better understanding of how different campaigns fared in relation to their launch dates and their funding goals. 
 Louise came really close to meeting her fundraising goal for her play "Fever". However, her play ultimately failed. Louise would like to learn from any mistakes she had and would like to see how other campaigns managed to reach their goals.
 ## Analysis of Outcomes Based on Launch Date
-I took the entire data set and created a table with the months of the year correlating with successful, failed, and canceled theater campaigns. 
+The months of the year  are correlating with successful, failed, and canceled theater campaigns. 
 To help visualize these findings, you can refer to the line chart below. Campaigns are failed and canceled at a pretty steady rate throughout the year. However, you do see that the beginning of the new year sparks an interest in theater campaigns and reaches a peak in the month of May, and for the rest of the year that interest slowly dies away.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/69607218/130502928-1669b209-5a3f-479e-8dca-8bd678292cfc.png)
 ## Analysis of Outcomes Based on Goals
-I decided to take the entire data set and figure out what the percentage of the theater-play campaigns were successful, failed or canceled; and if the Goal of these campaigns had any correlation with them succeeding, failing or being canceled.
+Here we wanted to see what the percentage of the theater-play campaigns were successful, failed or canceled; and if the Goal of these campaigns had any correlation with them succeeding, failing or being canceled.
 It's interesting to see that for the most part, as the Goal increased, the less likely the campaign was going to be successful.![Outcomes_vs_Goals](https://user-images.githubusercontent.com/69607218/130504843-c05cf935-9332-46e8-8a89-ca959fed6d94.png)
 ## Challenges and Difficulties
 The biggest challenge I had while completing this analysis was when I downloaded the dataset for the first time. I hade made it halfway through my analysis when I realized that the Goal and Pledged $ of the Theater section was slightly off and the number of Successful, Failed and Canceled Theater campaigns were off. The total number of Kickstarter campaigns and the data relating to ever other category was the same, the only thing off was the Theater section. I had to re-download the dataset and work through the analysis all over again.
